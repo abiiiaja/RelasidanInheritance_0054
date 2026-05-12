@@ -6,3 +6,5 @@
 #include <vector>
 #include "anak.h"
 using namespace std;
+
+class anak;

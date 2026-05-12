@@ -8,3 +8,7 @@
 using namespace std;
 
 class anak;
+
+class Ibu{
+
+};

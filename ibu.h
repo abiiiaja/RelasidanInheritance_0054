@@ -4,3 +4,5 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include "anak.h"
+using namespace std;

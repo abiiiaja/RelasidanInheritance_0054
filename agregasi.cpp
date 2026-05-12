@@ -8,4 +8,9 @@ using namespace std;
 
 int main()
 {
+    Ibu* varIbu = new Ibu("rani");
+    Ibu* varIbu2 = new Ibu("sari");
+    anak* varAnak1 = new anak("tono");
+    anak* varAnak2 = new anak("tiara");
+    anak* varAnak3 = new anak("dini");
 }
